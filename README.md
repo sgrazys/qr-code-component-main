@@ -42,9 +42,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 My major learnings while working through this project.
 
-```html
-<h1>Headings</h1>
-```
 ```css
 .proud-of-this-css {
   position: absolute;
