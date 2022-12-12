@@ -10,12 +10,15 @@ body *  {
 body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color:hsl(212, 45%, 89%);
-    width: 1440px;
+    height: 100vh;
+    position: relative;
 }
 
 footer {
     position: absolute; 
-    bottom: 0;
+    font-size: 12px;
+    bottom: 1vh;
+    left: 1vh;
     width: 100%;
     height: 2.5rem;
 }
